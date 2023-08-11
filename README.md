@@ -1,4 +1,4 @@
-# Code for the final project of the Reinforcement Learning course at the University of Tübingen in summer term 2023.
+# Code for the final project of the Reinforcement Learning Lecture at the University of Tübingen in summer term 2023.
 
 ## Teamname: The Random Action Rascals
 
@@ -10,4 +10,4 @@
 
 ## Running the code
 - Run the notebooks to see the results of the experiments
-- Run the `train_dqn.py` or `train_td3` scripts to train the agents
+- Run the `train_dqn.py` or `train_td3.py` scripts to train the agents
